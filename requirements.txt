@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 kafka-python==2.0.2
 pandas==2.2.2
+=======
+kafka-python==2.0.2
+pandas==2.2.2
+>>>>>>> 2a3eb59586c1d3426046e3e91d3fce0c60b90ce3
